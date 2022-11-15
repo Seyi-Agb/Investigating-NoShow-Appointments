@@ -9,3 +9,4 @@ The question "What factors affect appointment attendance?" guided the analysis o
 2. For all disease group (i.e. Diabetes, Hypertension and Alcoholism) appointment attendance improved slighlty except for alcoholism which maintained a similar proportion (i.e. 20%) to that of the general No Show Appointment Trend. People with Hypertension tended to have the best appointment attendance
 3. With multiple ailments, attendance also improved. The best appointment attendance came from people with a combination of hypertension and alcoholism which had very little no shows.
 4. People without scholarship tended to attend their scheduled appointments compared with those who had their healthcare sponsored or had scholarship
+5. The data also, showed an unexpected trend for no show appointments when SMS is received. The appointments where SMS was received had a worse attendance than those who had not received SMS.
